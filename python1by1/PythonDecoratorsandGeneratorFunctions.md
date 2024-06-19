@@ -1,23 +1,23 @@
 QUESTION 5
 
 
-# prompt 9, result 2
-# Question 2
+ prompt 9, result 2
+ Question 2
 
 
 
 
-# 0 - Topics : Python Decorators and Generator Functions
+ 0 - Topics : Python Decorators and Generator Functions
 
 
 
 
-# 1 - Scenario : Caching the results of a function that yields multiple values using a decorator
+ 1 - Scenario : Caching the results of a function that yields multiple values using a decorator
 
 
 
 
-# 2 - Code :
+ 2 - Code :
 
 
 
